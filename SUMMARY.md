@@ -1,16 +1,16 @@
 # Table of contents
 
-* [Spring framework Ecosystem](README.md)
-  * [Spring core](spring-framework-ecosystem/spring-core/README.md)
-    * [DispatcherServlet](spring-framework-ecosystem/spring-core/dispatcherservlet.md)
-    * [스프링 트라이앵글 - POJO, IOC/DI, AOP, PSA](spring-framework-ecosystem/spring-core/pojo-ioc-di-aop-psa.md)
-  * [Spring MVC](spring-framework-ecosystem/spring-mvc.md)
-  * [Spring Boot](spring-framework-ecosystem/spring-boot.md)
-  * [Spring Security](spring-framework-ecosystem/spring-security.md)
-  * [Spring Batch](spring-framework-ecosystem/spring-batch.md)
-  * [JPA](spring-framework-ecosystem/jpa.md)
-  * [JUnit, Spring Test](spring-framework-ecosystem/junit-spring-test.md)
-  * [etc](spring-framework-ecosystem/etc/README.md)
+* [framework, library](README.md)
+  * [Spring core](framework-library/spring-core/README.md)
+    * [스프링 트라이앵글 - POJO, IOC/DI, AOP, PSA](framework-library/spring-core/pojo-ioc-di-aop-psa.md)
+    * [DispatcherServlet](framework-library/spring-core/dispatcherservlet.md)
+  * [Spring MVC](framework-library/spring-mvc.md)
+  * [Spring Boot](framework-library/spring-boot.md)
+  * [Spring Security](framework-library/spring-security.md)
+  * [Spring Batch](framework-library/spring-batch.md)
+  * [JPA](framework-library/jpa.md)
+  * [JUnit, Spring Test](framework-library/junit-spring-test.md)
+  * [etc](framework-library/etc.md)
 
 ## ETC, 개발 팁들
 

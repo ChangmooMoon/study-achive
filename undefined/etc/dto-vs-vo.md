@@ -57,5 +57,3 @@ public class Money {
 [\[10분 테코톡\] 📍인비의 DTO vs VO](https://youtu.be/z5fUkck\_RZM)
 
 {% embed url="https://doing7.tistory.com/79" %}
-
-{% embed url="https://cheese10yun.github.io/lombok/" %}

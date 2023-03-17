@@ -1,31 +1,36 @@
 # Table of contents
 
-* [Spring framework](README.md)
-  * [Spring core](spring-framework/spring-core.md)
-  * [Spring MVC](spring-framework/spring-mvc.md)
-  * [Spring Boot](spring-framework/spring-boot.md)
-  * [Spring Security](spring-framework/spring-security.md)
-  * [Spring Batch](spring-framework/spring-batch.md)
+* [Spring framework Ecosystem](README.md)
+  * [Spring core](spring-framework-ecosystem/spring-core/README.md)
+    * [DispatcherServlet](spring-framework-ecosystem/spring-core/dispatcherservlet.md)
+  * [Spring MVC](spring-framework-ecosystem/spring-mvc.md)
+  * [Spring Boot](spring-framework-ecosystem/spring-boot.md)
+  * [Spring Security](spring-framework-ecosystem/spring-security.md)
+  * [Spring Batch](spring-framework-ecosystem/spring-batch.md)
+  * [JPA](spring-framework-ecosystem/jpa.md)
+  * [JUnit, Spring Test](spring-framework-ecosystem/junit-spring-test.md)
 
 ## ETC, 개발 팁들
 
-* [ETC 개발 팁들](etc/etc.md)
-
-***
-
-* [CS](cs/README.md)
-  * [OS](cs/os.md)
-  * [Network](cs/network.md)
-  * [DB](cs/db.md)
-  * [Algorithm](cs/algorithm.md)
+* [개발 팁들](etc/undefined.md)
 
 ## Language
 
 * [Java](language/java.md)
 * [Javascript](language/javascript.md)
 * [Python](language/python.md)
+* [MySQL](language/mysql.md)
 
-***
+## CS
 
-* [Book](book.md)
-* [Course](course.md)
+* [OS](cs/os.md)
+* [Network](cs/network.md)
+* [DB](cs/db.md)
+* [Algorithm](cs/algorithm.md)
+* [Design pattern](cs/design-pattern.md)
+
+## 소프트웨어 아키텍쳐
+
+* [Layered Architecture](undefined/layered-architecture.md)
+* [클린 아키텍쳐](undefined/undefined.md)
+* [DDD](undefined/ddd.md)

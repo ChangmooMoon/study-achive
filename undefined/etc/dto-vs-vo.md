@@ -58,6 +58,4 @@ public class Money {
 
 {% embed url="https://doing7.tistory.com/79" %}
 
-{% embed url="https://doing7.tistory.com/79" %}
-
 {% embed url="https://cheese10yun.github.io/lombok/" %}

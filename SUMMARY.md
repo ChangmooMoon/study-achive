@@ -12,7 +12,8 @@
   * [Spring Webflux](framework-library/spring-webflux.md)
   * [JPA](framework-library/jpa.md)
   * [JUnit, Spring Test](framework-library/junit-spring-test.md)
-  * [etc](framework-library/etc.md)
+  * [etc](framework-library/etc/README.md)
+    * [Slf4j MDC(Mapped Diagnostic Context)](framework-library/etc/slf4j-mdc-mapped-diagnostic-context.md)
 
 ## ETC, 개발 팁들
 

@@ -38,7 +38,9 @@
   * [자주 쓰는 ES6 문법 정리](language/javascript/es6.md)
   * [ES6 module](language/javascript/es6-module.md)
   * [ES6 proxy](language/javascript/es6-proxy.md)
-* [Python](language/python.md)
+  * [scope, var closure 이슈, let, const](language/javascript/scope-var-closure-let-const.md)
+* [Python](language/python/README.md)
+  * [@lru\_cache](language/python/lru\_cache.md)
 * [MySQL](language/mysql.md)
 
 ## CS

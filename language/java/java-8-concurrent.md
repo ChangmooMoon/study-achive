@@ -1,3 +1,7 @@
+---
+description: 리액티브 자바는 나중에 정리... 너무 어렵다
+---
+
 # java 8 Concurrent
 
 * Concurrent programming - Executor, Callable, Future, CompletableFuture

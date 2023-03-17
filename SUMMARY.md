@@ -32,6 +32,7 @@
 * [Java](language/java/README.md)
   * [JVM architecture](language/java/jvm-architecture.md)
   * [Garbage collection](language/java/garbage-collection.md)
+  * [Java String pool](language/java/java-string-pool.md)
   * [java 8 Concurrent](language/java/java-8-concurrent.md)
   * [Optional](language/java/optional.md)
   * [Stream](language/java/stream.md)

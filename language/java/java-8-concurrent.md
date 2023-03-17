@@ -24,3 +24,7 @@
     * 예외처리
       * exeptionally(Func) - 에러 처리
       * handle(BiFunction) - good, error 처리
+
+{% embed url="https://winterbe.com/posts/2015/04/07/java8-concurrency-tutorial-thread-executor-examples/" %}
+
+[https://ellerymoon.tistory.com/118](https://ellerymoon.tistory.com/118)

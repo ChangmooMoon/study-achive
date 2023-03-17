@@ -29,6 +29,7 @@
 * [Java](language/java/README.md)
   * [java 8 Concurrent](language/java/java-8-concurrent.md)
   * [Optional](language/java/optional.md)
+  * [Stream](language/java/stream.md)
 * [Javascript](language/javascript.md)
 * [Python](language/python.md)
 * [MySQL](language/mysql.md)

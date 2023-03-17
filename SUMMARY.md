@@ -18,6 +18,7 @@
 ## ETC, 개발 팁들
 
 * [개발 팁들](etc/undefined.md)
+  * [스프링 프로젝트 init 시에 해야될 것들](etc/undefined/init.md)
   * [vim 한글 깨질 때 인코딩 방식 지정](etc/undefined/vim.md)
   * [EC2 ssh connection 쉽게 하기](etc/undefined/ec2-ssh-connection.md)
   * [리눅스 커맨드, netstats](etc/undefined/netstats.md)

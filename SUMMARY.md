@@ -14,6 +14,7 @@
 
 * [개발 팁들](etc/undefined.md)
   * [vim 한글 깨질 때 인코딩 방식 지정](etc/undefined/vim.md)
+  * [EC2 ssh connection 쉽게 하기](etc/undefined/ec2-ssh-connection.md)
 
 ## Language
 

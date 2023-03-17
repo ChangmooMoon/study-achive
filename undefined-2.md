@@ -1,5 +1,13 @@
 # 테크 블로그
 
+{% embed url="https://johngrib.github.io/" %}
+
+{% embed url="https://bcho.tistory.com/" %}
+
+{% embed url="https://javacan.tistory.com/" %}
+
+{% embed url="https://martinfowler.com/" %}
+
 {% embed url="https://d2.naver.com/home" %}
 
 {% embed url="https://meetup.nhncloud.com/" %}
@@ -71,3 +79,4 @@
 {% embed url="https://blog.twitter.com/engineering/en_us" %}
 twitter US
 {% endembed %}
+

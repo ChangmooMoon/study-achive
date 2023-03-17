@@ -50,3 +50,4 @@
 
 * [소트웍스 앤솔로지에서 소개되는 객체지향 생활 체조 원칙 간략 정리](undefined-1/undefined.md)
 * [엘레강트 오브젝트 - 새로운 관점에서 바라본 객체지향](undefined-1/undefined-1.md)
+* [만들면서 배우는 클린 아키텍쳐](undefined-1/undefined-2.md)

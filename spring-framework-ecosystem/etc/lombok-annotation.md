@@ -173,3 +173,7 @@ Checked Exception 처리에 유용
 {% embed url="https://velog.io/@bwjhj1030/DTO-%EB%A7%8C%EB%93%A4-%EB%95%8C-Lombok-%EA%BF%80%ED%8C%81-%EB%8C%80%EB%B0%A9%EC%B6%9C" %}
 
 {% embed url="https://cheese10yun.github.io/lombok/" %}
+
+{% embed url="https://levelup.gitconnected.com/be-careful-with-lombok-2e2edfc01110" %}
+
+{% embed url="https://medium.com/geekculture/good-and-bad-usage-of-lombok-8c8f70874a93" %}

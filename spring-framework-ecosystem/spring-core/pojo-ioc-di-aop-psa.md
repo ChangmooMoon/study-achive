@@ -1,4 +1,4 @@
-# 스프링 트라이앵글
+# 스프링 트라이앵글 - POJO, IOC/DI, AOP, PSA
 
 POJO를 둘러싼 IoC/DI, AOP, PSA 이미지를 기억하자
 

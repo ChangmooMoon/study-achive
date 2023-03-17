@@ -3,14 +3,14 @@
 * [Spring framework Ecosystem](README.md)
   * [Spring core](spring-framework-ecosystem/spring-core/README.md)
     * [DispatcherServlet](spring-framework-ecosystem/spring-core/dispatcherservlet.md)
-    * [스프링 트라이앵글](spring-framework-ecosystem/spring-core/undefined.md)
+    * [스프링 트라이앵글 - POJO, IOC/DI, AOP, PSA](spring-framework-ecosystem/spring-core/pojo-ioc-di-aop-psa.md)
   * [Spring MVC](spring-framework-ecosystem/spring-mvc.md)
   * [Spring Boot](spring-framework-ecosystem/spring-boot.md)
   * [Spring Security](spring-framework-ecosystem/spring-security.md)
   * [Spring Batch](spring-framework-ecosystem/spring-batch.md)
   * [JPA](spring-framework-ecosystem/jpa.md)
   * [JUnit, Spring Test](spring-framework-ecosystem/junit-spring-test.md)
-  * [etc](spring-framework-ecosystem/etc.md)
+  * [etc](spring-framework-ecosystem/etc/README.md)
 
 ## ETC, 개발 팁들
 
@@ -20,7 +20,7 @@
   * [리눅스 커맨드, netstats](etc/undefined/netstats.md)
   * [Fork한 레포지토리 origin 업데이트](etc/undefined/fork-origin.md)
   * [git merge, rebase](etc/undefined/git-merge-rebase.md)
-* [Lombok annotation, 권장 방식](etc/lombok-annotation.md)
+* [Lombok annotation, 권장 방식](spring-framework-ecosystem/etc/lombok-annotation.md)
 
 ## Language
 

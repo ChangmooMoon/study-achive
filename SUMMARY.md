@@ -36,6 +36,8 @@
   * [Optional](language/java/optional.md)
   * [Stream](language/java/stream.md)
   * [자바 버젼별 feature](language/java/feature.md)
+  * [Comparator, Comparator](language/java/comparator-comparator.md)
+  * [Error, Exception 상속 구조](language/java/error-exception.md)
 * [Javascript](language/javascript.md)
   * [자주 쓰는 ES6 문법 정리](language/javascript/es6.md)
   * [ES6 module](language/javascript/es6-module.md)

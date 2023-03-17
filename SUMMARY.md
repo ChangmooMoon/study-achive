@@ -66,7 +66,7 @@
   * [gRPC](cs/network/grpc.md)
   * [web secure](cs/network/web-secure.md)
 * [DB](cs/db/README.md)
-  * [MySQL](cs/db/mysql.md)
+  * [MySQL](language/mysql.md)
   * [index](cs/db/index.md)
   * [정규화](cs/db/undefined.md)
   * [DB 트랜잭션, 동시성 제어 문제](cs/db/db.md)
@@ -96,3 +96,7 @@
 * [소트웍스 앤솔로지에서 소개되는 객체지향 생활 체조 원칙 간략 정리](undefined-1/undefined.md)
 * [엘레강트 오브젝트 - 새로운 관점에서 바라본 객체지향](undefined-1/undefined-1.md)
 * [만들면서 배우는 클린 아키텍쳐](undefined-1/undefined-2.md)
+
+***
+
+* [테크 블로그](undefined-2.md)

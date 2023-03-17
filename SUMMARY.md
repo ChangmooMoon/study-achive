@@ -38,7 +38,7 @@
   * [Optional](language/java/optional.md)
   * [Stream](language/java/stream.md)
   * [Comparator, Comparator](language/java/comparator-comparator.md)
-  * [Error, Exception 상속 구조](language/java/error-exception.md)
+  * [Error, Exception](language/java/error-exception.md)
   * [Java의 Call by value(pass by value)](language/java/java-call-by-value-pass-by-value.md)
   * [Java 변수 간 값 Swap 방식 5가지](language/java/java-swap-5.md)
 * [Javascript](language/javascript.md)

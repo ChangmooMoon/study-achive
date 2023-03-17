@@ -31,4 +31,4 @@ Host {alias로 쓸 서비스 명칭}
 
 `chmod 700 ~/.ssh/config`
 
-5. `ssh {alias} 으로 접속할 수 있다`
+5. `ssh {alias}` 으로 접속할 수 있다

@@ -1,5 +1,7 @@
 # EC2 ssh connection 쉽게 하기
 
+원래 방식은 이 방식으로 해야됨. 귀찮다
+
 ```
 $ ssh -i {YOUR_KEY_PAIR_FILE.pem} {USER_NAME}@{AWS_PUBLIC_DNS_}
 ```

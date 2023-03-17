@@ -38,6 +38,8 @@
   * [자바 버젼별 feature](language/java/feature.md)
   * [Comparator, Comparator](language/java/comparator-comparator.md)
   * [Error, Exception 상속 구조](language/java/error-exception.md)
+  * [Java의 Call by value(pass by value)](language/java/java-call-by-value-pass-by-value.md)
+  * [Java 변수 간 값 Swap 방식 5가지](language/java/java-swap-5.md)
 * [Javascript](language/javascript.md)
   * [자주 쓰는 ES6 문법 정리](language/javascript/es6.md)
   * [ES6 module](language/javascript/es6-module.md)

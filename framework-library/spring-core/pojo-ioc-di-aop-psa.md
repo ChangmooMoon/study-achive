@@ -6,7 +6,7 @@ description: POJO를 둘러싼 IoC/DI, AOP, PSA 이미지를 기억하자
 
 1. **IoC/DI - 제어의 역전, 의존성 주입**
 
-* 객체 내에서 사용할 의존성을 객체 자신이 만들어내지 않고, 내가 사용할 의존성을 누군가가 주입해준다는 개념(IoC, DI)
+* 객체 내에서 사용할 의존성을 객체 자신이 만들어내지 않고, 내가 사용할 의존성을 누군가가 주입해준다는 개념(Inversion of Control , Dependency injection)
 
 {% embed url="https://martinfowler.com/articles/injection.html" %}
 

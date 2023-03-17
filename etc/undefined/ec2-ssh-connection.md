@@ -25,12 +25,10 @@ Host {alias로 쓸 서비스 명칭}
     HostName {ec2 EIP 주소}
     User ec2-user
     IdentityFile ~/.ssh/{pem키 이름}
-    
-:wq!
 ```
 
 4. config 파일에 실행권한 설정
 
 `chmod 700 ~/.ssh/config`
 
-5. `ssh {서비스 명칭}`
+5. `ssh {alias} 으로 접속할 수 있다`

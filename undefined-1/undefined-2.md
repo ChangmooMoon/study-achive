@@ -51,7 +51,7 @@
     * 영속성 계층의 리포지토리가 도메인 계층에 있는 엔티티에 의존하도록 만든 뒤에 도메인 계층에 리포지토리에 대한 인터페이스를 만들고, 실제 리포지토리는 영속성 계층에서 구현하게 하면 된다.
     *   ㅑ
 
-        <figure><img src="../.gitbook/assets/Screenshot 2023-03-17 at 3.15.46 PM (3).png" alt=""><figcaption></figcaption></figure>
+        <figure><img src="../.gitbook/assets/Screenshot 2023-03-17 at 3.15.46 PM (2).png" alt=""><figcaption></figcaption></figure>
 *
 * 클린 아키텍쳐
   *

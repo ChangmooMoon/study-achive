@@ -22,6 +22,7 @@
   * [Fork한 레포지토리 origin 업데이트](etc/undefined/fork-origin.md)
   * [git merge, rebase](etc/undefined/git-merge-rebase.md)
 * [Lombok annotation, 권장 방식](spring-framework-ecosystem/etc/lombok-annotation.md)
+* [DB 모델링 시에 인조 식별자 정의하는 케이스](etc/db.md)
 
 ## Language
 

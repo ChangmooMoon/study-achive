@@ -4,7 +4,7 @@
 $ ssh -i {YOUR_KEY_PAIR_FILE.pem} {USER_NAME}@{AWS_PUBLIC_DNS_}
 ```
 
-본인이 지정한 alias만 입력해서 접속하는 방식 `$ssh {alias}`
+본인이 지정한 alias만 입력해서 접속하는 방식으로.  `$ssh {alias} 로 접속하게 만들자`
 
 1. pem 키를 `~/.ssh` 경로에 복사한다 ( 이후 ssh 실행 시에 pem키를 자동으로 읽어서 접속을 진행함)
 

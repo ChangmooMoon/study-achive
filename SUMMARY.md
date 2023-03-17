@@ -12,7 +12,7 @@
 
 ## ETC, 개발 팁들
 
-* [개발 팁들](etc/undefined/README.md)
+* [개발 팁들](etc/undefined.md)
   * [vim 한글 깨질 때 인코딩 방식 지정](etc/undefined/vim.md)
 
 ## Language

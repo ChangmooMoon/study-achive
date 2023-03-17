@@ -45,7 +45,6 @@
   * [scope, var closure 이슈, let, const](language/javascript/scope-var-closure-let-const.md)
 * [Python](language/python.md)
   * [@lru\_cache](language/python/lru\_cache.md)
-* [MySQL](language/mysql.md)
 
 ## CS
 
@@ -67,6 +66,7 @@
   * [gRPC](cs/network/grpc.md)
   * [web secure](cs/network/web-secure.md)
 * [DB](cs/db/README.md)
+  * [MySQL](cs/db/mysql.md)
   * [index](cs/db/index.md)
   * [정규화](cs/db/undefined.md)
   * [DB 트랜잭션, 동시성 제어 문제](cs/db/db.md)

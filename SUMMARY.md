@@ -27,6 +27,7 @@
   * [Intellij 자주 쓰는 기능 단축키](etc/undefined/intellij.md)
 * [Lombok annotation, 권장 방식](spring-framework-ecosystem/etc/lombok-annotation.md)
 * [DB 모델링 시에 인조 식별자 정의하는 케이스](etc/db.md)
+* [Redis pub/sub vs Apache kafka](etc/redis-pub-sub-vs-apache-kafka.md)
 
 ## Language
 

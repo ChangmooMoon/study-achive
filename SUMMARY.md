@@ -6,6 +6,7 @@
     * [Servlet](framework-library/spring-core/servlet.md)
   * [Spring MVC](framework-library/spring-mvc.md)
     * [DispatcherServlet](framework-library/spring-core/dispatcherservlet.md)
+    * [@Valid, @Validated](framework-library/spring-mvc/valid-validated.md)
   * [Spring Boot](framework-library/spring-boot.md)
   * [Spring Security](framework-library/spring-security.md)
   * [Spring Batch](framework-library/spring-batch.md)
